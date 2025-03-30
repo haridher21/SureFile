@@ -11,5 +11,4 @@ Using Claude as an LLM bases, and creating a RAG pipeline feeding websites, PDF 
 
 Building frontend with bolt.new.
 
-
-
+Databricks e-book: https://www.databricks.com/sites/default/files/2024-10/ebook-a-compact-guide-to-pretraining-custom-llms.pdf
